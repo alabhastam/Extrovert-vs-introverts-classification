@@ -1,4 +1,4 @@
-# Kaggle Tabular Playground Series — S5E7  
+# Extrovert-vs-introverts-classification
 **Introvert vs. Extrovert Personality Prediction**
 
 ## 📌 Project Overview
